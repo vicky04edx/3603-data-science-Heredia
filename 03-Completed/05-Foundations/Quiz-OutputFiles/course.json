@@ -1,0 +1,9 @@
+{
+  "name": "Computer Science",
+  "credits": 3,
+  "topics": [
+    "Python",
+    "Data Science",
+    "Algorithms"
+  ]
+}
