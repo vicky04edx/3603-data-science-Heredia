@@ -1,0 +1,4 @@
+species,female_count,male_count,body_mass_g_difference,flipper_length_mm_difference,bill_depth_mm_difference
+Adelie,73,73,674.66,4.62,1.45
+Chinstrap,34,34,411.76,8.18,1.66
+Gentoo,58,61,805.09,8.83,1.48
